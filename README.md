@@ -1,6 +1,6 @@
-# ✅ Task Manager API
+### Task Manager API
 
-Projeto desenvolvido durante as aulas do **Curso Full Stack da Rocketseat**.
+Projeto desenvolvido durante as aulas do **Curso Full Stack da [Rocketseat](https://www.rocketseat.com.br/)**.
 
 O principal objetivo deste projeto é criar uma **API para um sistema de Gerenciamento de Tarefas**, permitindo que usuários possam:
 
